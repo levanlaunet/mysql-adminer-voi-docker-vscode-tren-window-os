@@ -1,2 +1,4 @@
-# mysql-adminer-voi-docker-vscode-tren-window-os
-MySql, Adminer với Docker, VScode trên Window OS
+# MySql, Adminer với Docker, VScode trên Window OS
+
+### Youtube video : https://youtu.be/mb546FihcZw
+### Blog : https://levanlau.net
